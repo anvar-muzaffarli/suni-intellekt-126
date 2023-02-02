@@ -1,9 +1,16 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
+
+// komponentler buraya gelecek
+import Navbar from './components/Navbar'
+
 function App() {
   return (
-    <h1>test</h1>
+    <div className="wrapper">
+    <Navbar />
+    </div>
+   
   );
 }
 
