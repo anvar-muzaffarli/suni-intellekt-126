@@ -33,6 +33,10 @@
     transition: width 1.4s linear;
 }
 
+.aktiv {
+    width: 50%;
+}
+
 .nav-links {
     display: flex;
 flex-direction: column;
