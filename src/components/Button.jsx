@@ -1,8 +1,9 @@
 import React from 'react'
 import './Button.css'
-const Button = () => {
+const Button = (props) => {
+  console.log(props.buttonunIcindekiDeyer)
   return (
-    <button className="my-custom-btn">SIGN IN</button>
+    <button className={props.klassAdi}>{props.buttonunIcindekiDeyer}</button>
   )
 }
 

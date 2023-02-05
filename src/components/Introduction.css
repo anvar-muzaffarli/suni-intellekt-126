@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+
+.introduction-section .left-side {
+    padding-top: 160px;
+}
+
+
+
+
+.introduction-section .left-side p {
+    margin: 40px 0;
+    color:white;
+}
+
+.introduction-section h6 {
+    text-transform: uppercase;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.typing-text {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 55px;
+line-height: 130%;
+/* or 71px */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+}

@@ -71,7 +71,7 @@ const Navbar = () => {
 
       </ul>
      
-     <Button />
+     <Button buttonunIcindekiDeyer = "Sign In" klassAdi="my-custom-btn"/>
     </div>
   </div>
 </nav>
