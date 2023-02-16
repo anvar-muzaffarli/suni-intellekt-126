@@ -46,6 +46,11 @@ const Partnyorlar = () => {
     <SwiperSlide> <Partnyor shirketinShekli ={partnyorShirket2} /> </SwiperSlide>
     <SwiperSlide> <Partnyor shirketinShekli ={partnyorShirket3} /></SwiperSlide>
     <SwiperSlide><Partnyor shirketinShekli ={partnyorShirket4} /></SwiperSlide>
+
+    <SwiperSlide><Partnyor shirketinShekli={partnyorShirket1} /></SwiperSlide>
+    <SwiperSlide> <Partnyor shirketinShekli ={partnyorShirket2} /> </SwiperSlide>
+    <SwiperSlide> <Partnyor shirketinShekli ={partnyorShirket3} /></SwiperSlide>
+    <SwiperSlide><Partnyor shirketinShekli ={partnyorShirket4} /></SwiperSlide>
  
   </Swiper>
 

@@ -27,3 +27,26 @@ body {
     padding: 50px;
   }
 }
+
+.card-img-top {
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.cart {
+  padding: 20px;
+  color:white;
+}
+
+.cart p, .cart h5 {
+  margin: 20px 0;
+}
+
+
+.cart {
+  transition: 0.5s ease-in;
+}
+.cart:hover {
+  box-shadow: 10px 15px 30px rgba(255,0,0);
+}

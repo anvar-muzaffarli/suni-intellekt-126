@@ -13,7 +13,7 @@ import profilPic from '../assets/images/profil.svg'
 const Introduction = () => {
   return (
     <div className='introduction-section row'>
-        <div className="left-side col-12 col-md-6">
+        <div className="left-side col-12 col-md-6" data-aos="fade-right" >
         <h6>Next genaretion platform</h6>
         <Typed
         className='typing-text'
